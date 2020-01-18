@@ -18,3 +18,7 @@ pip install . --user
 #+BEGIN_SRC bash
 python tlg.py <tlg_file>
 #+END_SRC
+** References
+- https://github.com/krkrz/krkrz/blob/master/visual/LoadTLG.cpp
+- https://github.com/vn-tools/tlg2png
+- https://github.com/zhiyb/png2tlg
