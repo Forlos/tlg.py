@@ -1,7 +1,7 @@
 * TLG.py
 Convert to and from TLG files
 
-** Supported tlg versions
+** Supported TLG versions
 - [X] TLG0.0
 - [ ] TLG5.0
 - [X] TLG6.0
