@@ -6,8 +6,8 @@ Convert to and from TLG files
 - [ ] TLG5.0
 - [X] TLG6.0
 ** Supported actions
-- [X] Png to TLG
-- [ ] TLG to Png
+- [X] TLG to Png
+- [ ] Png to TLG
 ** Prerequisites
 - Python3 with pip
 ** Installation
