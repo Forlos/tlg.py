@@ -1,0 +1,20 @@
+* TLG.py
+Convert to and from TLG files
+
+** Supported tlg versions
+- [X] TLG0.0
+- [ ] TLG5.0
+- [X] TLG6.0
+** Supported actions
+- [X] Png to TLG
+- [ ] TLG to Png
+** Prerequisites
+- Python3 with pip
+** Installation
+#+BEGIN_SRC bash
+pip install . --user
+#+END_SRC
+** Usage
+#+BEGIN_SRC bash
+python tlg.py <tlg_file>
+#+END_SRC
